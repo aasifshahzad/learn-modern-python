@@ -1,4 +1,4 @@
-# Learn Modern Python and Data Science
+# Learn Modern Python for Data Analysis
 
 This course is part of the [GenAI, Web 3, and Metaverse Program](https://docs.google.com/presentation/d/1XVSZhmv4XH14YpyDxJIvYWiUrF1EO9tsUnle17wCLIc/edit?usp=sharing)
 
@@ -6,9 +6,9 @@ After completing this course, move on to the [Learn Generative AI Repo](https://
 
 ## Live Zoom Classes: Data Science and Modern Python Crash Course for WMD Q1, Q2, and Q3
 
-Days : Monday, Tuesday, Thursday, Friday, Saturday, and Sunday
+Days: Monday, Tuesday, Thursday, Friday, Saturday, and Sunday
 
-Time : 08:00 PM to 10:00 PM
+Time: 08:00 PM to 10:00 PM
 
 Join Zoom Meeting
 
@@ -18,9 +18,13 @@ Meeting ID: 822 2469 1502
 
 Passcode: 936542
 
-This session will also be live streamed on YouTube:
+This session will also be live-streamed on YouTube:
  
 https://www.youtube.com/@panaverse/streams
+
+## Class Recordings
+
+[Recorded Classes YouTube Playlist](https://www.youtube.com/playlist?list=PL0vKVrkG4hWrEujmnC7v2mSiaXMV_Tfu0)
 
 
 ## What is Modern Python?
@@ -47,39 +51,47 @@ https://www.youtube.com/@panaverse/streams
     conda activate myenv3_12
     python --version
 
+## Text Books
+
+1. [Python Crash Course 3rd Edition](https://www.amazon.com/Python-Crash-Course-Eric-Matthes/dp/1718502702/ref=sr_1_1)
+2. [Chapter 5 of Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter 3rd Edition](https://www.amazon.com/Python-Data-Analysis-Wrangling-Jupyter/dp/109810403X/ref=sr_1_1)
+
 
 ## Learning Material
 
-We will cover Python version 3.12+ with Latest Features
+We will cover Python version 3.12+ with the Latest Features
 
 1. [Chapters 1-10 of Python Crash Course 3rd Edition](https://www.amazon.com/Python-Crash-Course-Eric-Matthes/dp/1718502702/ref=sr_1_1)
 
-[Update the Book Code with Type Hints
-Resources for Python Crash Course](https://ehmatthes.github.io/pcc_3e/)
+[Additional Resources for Python Crash Course](https://ehmatthes.github.io/pcc_3e/)
 
 [Google Colaboratory](https://colab.google/)
 
 2. [How to Determine the Type of an Object in Python?](https://itslinuxfoss.com/determine-type-object-python/) 
 
 3. [Python end parameter in print()](https://www.geeksforgeeks.org/gfact-50-python-end-parameter-in-print/)
+   
+4. [Lambda Function](https://www.geeksforgeeks.org/python-lambda-anonymous-functions-filter-map-reduce/)
+5. [Understanding Pass-by-Value vs. Pass-by-Reference and Mutable vs. Immutable in Python](https://www.linkedin.com/pulse/understanding-pass-by-value-vs-pass-by-reference-elhousieny-phd%E1%B4%AC%E1%B4%AE%E1%B4%B0/)
+   
+6. [*args and **kwargs in Python](https://www.geeksforgeeks.org/args-kwargs-python/)
 
-4. Typing
+7. Typing
+   
+https://www.infoworld.com/article/3630372/get-started-with-python-type-hints.html
 
-https://docs.python.org/3/library/typing.html 
+https://peps.python.org/pep-0484/#type-aliases
 
-https://www.javatpoint.com/type-hint-concepts-to-improve-python-code 
-
-Note: The last article is not current because it does not use collections.abc 
 
 [Typing Cheat Sheet](https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html)
 
-5. Abstract Base Classes (collections.abc)
+8. Abstract Base Classes (collections.abc)
 
 https://www.youtube.com/watch?v=oUt1feRoyvI 
 
 https://docs.python.org/3/library/collections.abc.html 
 
-6. Yield in Python
+9. Yield in Python
 
 https://www.simplilearn.com/tutorials/python-tutorial/yield-in-python 
 
@@ -96,7 +108,9 @@ Then define the function that returns yield:
     def my_generator()-> Iterator[int]:
         function statements
 
-7. Advanced Classes Topics in Python
+10. Advanced Classes Topics in Python
+
+https://www.codingninjas.com/studio/library/how-everything-in-python-is-an-object
 
 Class Attributes and Methods vs Instance Attributes and Methods in Python
 
@@ -122,7 +136,12 @@ Type Statements:
 
 https://docs.python.org/3.12/reference/simple_stmts.html#the-type-statement 
 
-8. [Chapter 5 of Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter 3rd Edition](https://www.amazon.com/Python-Data-Analysis-Wrangling-Jupyter/dp/109810403X/ref=sr_1_1)
+Python's .__call__() Method: Creating Callable Instances:
+
+https://realpython.com/python-callable-instances/
+
+10. [Chapter 5 of Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter 3rd Edition](https://www.amazon.com/Python-Data-Analysis-Wrangling-Jupyter/dp/109810403X/ref=sr_1_1)
+11. [Python in Microsoft Excel Second Editon ](https://www.linkedin.com/posts/financial-modeling-world-cup_python-in-excel-ugcPost-7118239470105075712-5xFJ)
 
 Additional Readings:
 
@@ -134,7 +153,8 @@ https://towardsdatascience.com/python-type-hinting-duck-type-compatibility-and-c
 
 [Pandas Project: Make a Gradebook With Python & Pandas](https://realpython.com/pandas-project-gradebook/)
 
-# Fundamentals of Modern Python and Data Analysis Quiz 
+# Fundamentals of Modern Python for Data Analysis Quiz
+ 
 
 Total Questions: 40
 
