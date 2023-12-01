@@ -3,5 +3,7 @@
         "boundries",
         "PIAIC",
         "Qasim"
-    ]
+    ],
+    "notebook.lineNumbers": "on",
+    "csv-preview.lineNumbers": "ordinal"
 }
